@@ -1,0 +1,6 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "ImGui DirectX 11 Kiero Hook/imgui"]
+	path = ImGui DirectX 11 Kiero Hook/imgui
+	url = https://github.com/ocornut/imgui.git
